@@ -16,4 +16,4 @@ First you must installled composer in your computer.
 <br>
 <strong>Api Documentation:</strong>
 <br>
-<a href="https://documenter.getpostman.com/view/1784777/UVeCQoba" align="left"> Click this link </a>
+<a target="_blank" href="https://documenter.getpostman.com/view/1784777/UVeCQoba" align="left"> Click this link </a>
